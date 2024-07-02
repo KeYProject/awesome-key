@@ -1,6 +1,6 @@
 # Awesome KeY
 
-Resources to KeY
+This page gathers various resources around the [KeY Verification Tool for Java](https://key-project.org) and the Java Modelling Language (JML).
 
 ## Case Studies 
 
@@ -32,7 +32,7 @@ Resources to KeY
 
   Simplified Version of the Hagrid key-server
 
-## Tools
+## Tools for KeY
 
 * https://github.com/wadoon/key-citool
 
@@ -50,8 +50,18 @@ Resources to KeY
 
   Syntax highlighting for JML and KeY files for the pygments (Python) system. 
 
+
 ## Plugins
 
 * https://github.com/wadoon/key-interactionlog
 
   A plugin that can log your interaction with KeY for documentation, replay or scripting reasons.
+
+
+
+## Tools for JML 
+
+* https://github.com/jmltoolkit/jmlparser
+
+  From source code to AST with support for Java 21+ and JML annotation.
+ 
