@@ -50,7 +50,16 @@ This page gathers various resources around the [KeY Verification Tool for Java](
 
   Syntax highlighting for JML and KeY files for the pygments (Python) system. 
 
+## Tools with KeY
 
+* https://github.com/ekuiter/KeYPR
+
+  Proof Repository with KeY 
+
+* https://github.com/KIT-TVA/CorC
+
+  Correctness-by-Construction using the KeY Theorem Prover 
+ 
 ## Plugins
 
 * https://github.com/wadoon/key-interactionlog
